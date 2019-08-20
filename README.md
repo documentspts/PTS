@@ -1,5 +1,5 @@
 # PTS
-Prehistoric Tomb Surveying - a study
+Prehistoric Tomb Surveying
 
 This is not a coding git. It is used to record the changes made to the papers of the study.
 In it several tomb plans are presented that fit to a grid-of-squares geometry.
